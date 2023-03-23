@@ -12,3 +12,8 @@
 # How to use:
 * Open html files with browser to view
 * You can modify js file to testing
+
+# How to fix CROS error when open with browser
+* Open folder with visual studio code
+* install Live serve extension
+* Go to right bottom and find "Go Live" button, so click it to start server and go to web
